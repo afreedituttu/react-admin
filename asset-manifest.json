@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-admin/static/css/main.c2674ca4.css",
+    "main.js": "/react-admin/static/js/main.c86b99b7.js",
+    "index.html": "/react-admin/index.html",
+    "main.c2674ca4.css.map": "/react-admin/static/css/main.c2674ca4.css.map",
+    "main.c86b99b7.js.map": "/react-admin/static/js/main.c86b99b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2674ca4.css",
+    "static/js/main.c86b99b7.js"
+  ]
+}
